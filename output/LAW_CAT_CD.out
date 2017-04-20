@@ -1,0 +1,6 @@
+FELONY	1567419,value
+MISDEMEANOR	2918569,value
+VIOLATION	615234,value
+string	5101222,dtype
+code	5101222,stype
+VALID	5101222,label
